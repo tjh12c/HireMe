@@ -1,0 +1,93 @@
+{
+	"experience": [
+		{
+			"jobTitle": ["Senior iOS Developer"],
+			"company": "Ontada",
+			"startDate": "April 2020",
+			"currentJob": true,
+			"description": [
+				"Create and maintain a from-scratch CI system for six internal repositories managing everything from testing to build deployment using Xcode Cloud, Fastlane, TestFlight, and Github Actions",
+				"Write performant and scalable Swift code leveraging SwiftUI and UIKit",
+				"Manage release process and ensure successful deployment",
+				"Develop multiple widget extensions leveraging WidgetKit",
+				"Create componentized SwiftUI views for use in watchOS, macOS, iPadOS, and iOS",
+				"Crafted multiple complications for watchOS",
+				"Worked to solve intrateam interpersonal issues and foster an environment where people enjoy coming to work"
+			]
+		},
+		{
+			"jobTitle": [
+				"Senior iOS Developer",
+				"iOS Developer"
+			], 
+			"company": "Charter Communications",
+			"startDate": "November 2019",
+			"currentJob": false,
+			"endDate": "April 2020",
+			"description": [
+				"Directed and architected authentication solution combining a multitude of complex authentication methods into a single auth feature leveraging the different components for an app with 556k daily active users",
+				"Lead multi-man development effort on Buyflow feature, the company’s flagship feature to allow users to purchase streaming services directly from the application",
+				"Maintain existing CI processes leveraging GitLab runners, Fastlane, TestFlight, and Firebase’s Beta",
+				"Proactively (and reactively) identify and triage production issues using Kibana, Splunk, and various in-house analytics solutions",
+				"Manage release process from creating release branches to submission for review to actual release and change control",
+				"Oversee offshore analytics developers to ensure code quality",
+				"Write maintainable, performant, and testable Swift code to implement features and fix bugs",
+				"Improve HLS quality for users by identifying items in the HLS spec that gives AVFoundation more information on optimal bitrate"
+			]
+		},
+		{
+			"jobTitle": ["iOS Developer"],
+			"company": "Pegasus Transtech",
+			"startDate": "November 2016",
+			"currentJob": false,
+			"endDate": "April 2018",
+			"description": [
+				"Maintain and develop features in 15+ iOS apps as the sole in-house iOS developer, including one custom B2B app",
+				"Manage and create CI processes using Jenkins and Xcode command line tools",
+				"Work directly with clients to determine needs and direct development effort",
+				"Direct offshore development teams"
+			]
+		},
+		{
+			"jobTitle": "iOS Developer",
+			"company": "Freelance",
+			"currentJob": false,
+			"startDate": "October 2014",
+			"endDate": "January 2016",
+			"description": [
+				"While in university developed CVilleSocial, Charlottesville Sports & Social Club, and Nakid Social Sports apps for various amateur sports leagues"
+			]
+		}
+	],
+	"education": {
+		"school": "Florida State University",
+		"startDate": "September 2012",
+		"endDate": "May 2016",
+		"degree": "Bachelor’s in Computer Science"
+	},
+	"skills": [
+		"iOS, iPadOS, watchOS development",
+		"Swift",
+		"MVC/MVVM",
+		"Xcode Cloud",
+		"Github Actions",
+		"UIKit",
+		"SwiftUI",
+		"Swift Package Manager",
+		"Cocoapods",
+		"HLS Streaming",
+		"REST APIs",
+		"Git",
+		"iOS Accessibility",
+		"GitLab CI",
+		"Xcode",
+		"Objective-C",
+		"App Store Connect and Certificate/Profile Management",
+		"Kibana",
+		"Unit Testing",
+		"UI Testing",
+		"Xcode command line tools",
+		"YAML",
+		"TestFlight"
+	]
+}

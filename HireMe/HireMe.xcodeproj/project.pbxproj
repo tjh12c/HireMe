@@ -14,6 +14,7 @@
 		27C5215127EA4A1800B70121 /* HireMeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C5215027EA4A1800B70121 /* HireMeTests.swift */; };
 		27C5215B27EA4A1800B70121 /* HireMeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C5215A27EA4A1800B70121 /* HireMeUITests.swift */; };
 		27C5215D27EA4A1800B70121 /* HireMeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C5215C27EA4A1800B70121 /* HireMeUITestsLaunchTests.swift */; };
+		27C5216B27EA4AE500B70121 /* Resume.json in Resources */ = {isa = PBXBuildFile; fileRef = 27C5216A27EA4AE500B70121 /* Resume.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		27C5215627EA4A1800B70121 /* HireMeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HireMeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		27C5215A27EA4A1800B70121 /* HireMeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HireMeUITests.swift; sourceTree = "<group>"; };
 		27C5215C27EA4A1800B70121 /* HireMeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HireMeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		27C5216A27EA4AE500B70121 /* Resume.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Resume.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 			isa = PBXGroup;
 			children = (
 				27C5213E27EA4A1700B70121 /* HireMe */,
+				27C5216927EA4ABA00B70121 /* Resources */,
 				27C5214F27EA4A1800B70121 /* HireMeTests */,
 				27C5215927EA4A1800B70121 /* HireMeUITests */,
 				27C5213D27EA4A1700B70121 /* Products */,
@@ -125,6 +128,14 @@
 				27C5215C27EA4A1800B70121 /* HireMeUITestsLaunchTests.swift */,
 			);
 			path = HireMeUITests;
+			sourceTree = "<group>";
+		};
+		27C5216927EA4ABA00B70121 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				27C5216A27EA4AE500B70121 /* Resume.json */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,6 +242,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27C5216B27EA4AE500B70121 /* Resume.json in Resources */,
 				27C5214727EA4A1800B70121 /* Preview Assets.xcassets in Resources */,
 				27C5214427EA4A1800B70121 /* Assets.xcassets in Resources */,
 			);
